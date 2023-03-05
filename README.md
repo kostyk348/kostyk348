@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   **My OS:**
   
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original-wordmark.svg" title="NixOS" **alt="NixOS" width="200" height="180"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/7cfec99fdc30daa7f9868f87758b43067cf0c348148293d70d6cb4034fe810fe/68747470733a2f2f6769746c61622e636f6d2f7361696e6e68652f696d672f2d2f7261772f6d61737465722f6c6f676f2d617263686c696e75782e706e67" title="Arch" **alt="Arch" width="200" height="180"/>&nbsp;
   </div>
 
 ---
