@@ -1,3 +1,13 @@
+██████╗ ███████╗ ██████╗
+██╔══██╗██╔════╝██╔═══██╗
+██║  ██║███████╗██║   ██║
+██║  ██║╚════██║██║   ██║
+██████╔╝███████║╚██████╔╝
+╚═════╝ ╚══════╝ ╚═════╝
+
+Deterministic Systems Optimization
+
+
 # Hi, I'm Konstantin 👋
 
 Automation Engineer • Linux Enthusiast • Graphics Programmer • AI Research Hobbyist
