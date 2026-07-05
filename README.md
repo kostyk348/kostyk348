@@ -97,3 +97,20 @@ Feel free to open an Issue, start a Discussion, or contact me through GitHub.
 ---
 
 > "Learning by building."
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kostyk348&show_icons=true&theme=tokyonight)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyk348&layout=compact&theme=tokyonight)
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kostyk348&theme=tokyonight)
+
+
+
+![](https://komarev.com/ghpvc/?username=kostyk348&color=blueviolet)
