@@ -10,8 +10,8 @@ Most of my repositories are experiments rather than finished products — I like
 
 ## 🚀 Current Interests
 
-- ⚙️ Industrial Automation & Control Systems
-- 🐧 Linux (Artix, Wayland, Hyprland)
+- ⚙️ Industrial Automation & Control Systems (PLCs, HMIs)
+- 🐧 Linux (Artix, Wayland, labwc)
 - 🎮 Graphics Programming & Game Engine Development
 - 🤖 AI Research & Generative Models
 - 🧠 Experimental LLM Architectures
