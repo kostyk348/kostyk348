@@ -1,52 +1,99 @@
+# Hi, I'm Konstantin 👋
 
+Automation Engineer • Linux Enthusiast • Graphics Programmer • AI Research Hobbyist
 
+I enjoy building unusual software projects that combine low-level programming, computer graphics, automation, artificial intelligence and retro computing.
 
-- 👋 Hi, I’m @kostyk348
-- 👀 I’m interested in reading Science Fiction, studying in my LETI Univeristy, playing computer games ofc, and also I am interested in programming
-- 🌱 I’m currently learning basics of ROS 
-- 💞️ I’m looking to collaborate on some open source projects cause it's cool and it will help me to get some practical experience in programming. Also it will be a good point in CV.
-- 📫 How to reach me: You could dm me here, or we could migrate to telegram or VK if you want to.
-
-<!---
-kostyk348/kostyk348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
---- 
-**My skills:** <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="Labview" alt="Labview " width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  title="Latex" alt="Latex" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="60" height="60"/>&nbsp;
-  </div>
-
-  ---
- **My UNIX shell:**
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="60" height="60"/>&nbsp;
-  </div>
-  
-  ---
-  
-  **My OS:**
-  
-  <div>
-  <img src="https://camo.githubusercontent.com/7cfec99fdc30daa7f9868f87758b43067cf0c348148293d70d6cb4034fe810fe/68747470733a2f2f6769746c61622e636f6d2f7361696e6e68652f696d672f2d2f7261772f6d61737465722f6c6f676f2d617263686c696e75782e706e67" title="Arch" **alt="Arch" width="200" height="180"/>&nbsp;
-  </div>
+Most of my repositories are experiments rather than finished products — I like exploring unconventional ideas and learning how complex systems work from the inside.
 
 ---
-  
-  Also I am going to build my personal website using:
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" title="HUGO" **alt="HUGO" width="200" height="200"/>&nbsp;
-  </div>
 
-I'll add a link later
-  
-  ---
+## 🚀 Current Interests
+
+- ⚙️ Industrial Automation & Control Systems
+- 🐧 Linux (Artix, Wayland, Hyprland)
+- 🎮 Graphics Programming & Game Engine Development
+- 🤖 AI Research & Generative Models
+- 🧠 Experimental LLM Architectures
+- 📷 Computer Vision
+- 🖥️ Embedded & Low-Level Programming
+- 🎲 Retro Computing & Console Hardware
+- 🌐 Open Source
+
+---
+
+## 🔭 Current Projects
+
+- DSO — Dreamcast SDK & Open Source ecosystem
+- Experimental lightweight LLM architecture
+- Game engine research (C++ / Vulkan)
+- Linux desktop customization
+- AI image generation workflows
+- Automation engineering tools
+- Personal website (Hugo)
+
+---
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,lua,bash" />
+</p>
+
+---
+
+## 🛠 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vim,latex,opencv,cmake,meson,vscode" />
+</p>
+
+---
+
+## ⚡ Platforms
+
+- Linux
+- Wayland
+- Vulkan
+- OpenGL
+- ROS
+- PLC Programming
+- PCS7
+- Computer Vision
+
+---
+
+## 🎨 Interests Outside Programming
+
+- Science Fiction
+- Cyberpunk
+- Anime
+- Photography
+- 3D Printing
+- Jazz / Rock
+- Retro Games
+- Computer History
+
+---
+
+## 🤝 Open Source
+
+I'm always interested in collaborating on:
+
+- Linux software
+- Graphics projects
+- Game engines
+- AI research
+- Emulators
+- Retro hardware
+- Open source tooling
+
+---
+
+## 📫 Contact
+
+Feel free to open an Issue, start a Discussion, or contact me through GitHub.
+
+---
+
+> "Learning by building."
