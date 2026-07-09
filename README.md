@@ -26,6 +26,7 @@ Most of my repositories are experiments rather than finished products — I like
 
 ## 🔭 Current Projects
 
+- 📄 pdf-translate — Layout-preserving PDF translation (Chinese→Russian, DeepLX backend)
 - DSO — Dreamcast SDK & Open Source ecosystem
 - Experimental lightweight LLM architecture
 - Game engine research (C++ / Vulkan)
