@@ -26,14 +26,14 @@ Most of my repositories are experiments rather than finished products — I like
 
 ## 🔭 Current Projects
 
-- 📄 pdf-translate — Layout-preserving PDF translation (Chinese→Russian, DeepLX backend)
-- DSO — Dreamcast SDK & Open Source ecosystem
-- Experimental lightweight LLM architecture
-- Game engine research (C++ / Vulkan)
-- Linux desktop customization
-- AI image generation workflows
-- Automation engineering tools
-- Personal website (Hugo)
+- 📄 [pdf-translate](https://github.com/kostyk348/pdf-translate) — Layout-preserving PDF translation (Chinese→Russian, DeepLX backend)
+- 🎹 [DSO Layout](https://github.com/kostyk348/dso-layout) — Colemak-DH + Optimized Russian keyboard layout (47% less finger travel)
+- 🖥️ [DSO](https://github.com/kostyk348/dso) — Deterministic Streaming Object Runtime
+- ⚙️ [DSO-TRON](https://github.com/kostyk348/DSO-TRON) — Deterministic real-time OS kernel
+- 🧠 Experimental lightweight LLM architecture
+- 🎮 Game engine research (C++ / Vulkan)
+- 🤖 AI image generation workflows
+- 🌐 [Personal website](https://kostyk348.github.io) (Hugo + GitHub Pages)
 
 ---
 
@@ -95,7 +95,8 @@ I'm always interested in collaborating on:
 
 ## 📫 Contact
 
-Feel free to open an Issue, start a Discussion, or contact me through GitHub.
+- 🌐 Website: [kostyk348.github.io](https://kostyk348.github.io)
+- 💬 Feel free to open an Issue, start a Discussion, or contact me through GitHub.
 
 ---
 
