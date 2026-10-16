@@ -22,7 +22,7 @@
 
 ---
 
-## 🧭 What I Do
+# 🧭 What I Do
 
 Most of my repositories are **experiments rather than finished products** —
 I like exploring unconventional ideas and learning how complex systems work from the inside.
@@ -48,6 +48,8 @@ Areas I keep coming back to:
 | [**MPTC**](https://github.com/kostyk348/MPTC) | Multi-Phase Ternary Computing — branchless fixed-point C99 for ultra-low-power MCUs | C | ![3](https://img.shields.io/badge/3-666?style=flat-square) |
 | [**datatrace**](https://github.com/kostyk348/datatrace) | LD_PRELOAD + eBPF taint tracker — untrusted data flows to sinks, with flow-graph reporting | C | ![2](https://img.shields.io/badge/2-666?style=flat-square) |
 | [**pdf-translate**](https://github.com/kostyk348/pdf-translate) | Layout-preserving PDF translation. 30+ languages, DeepLX backend, no API key | Python | ![2](https://img.shields.io/badge/2-666?style=flat-square) |
+[![Release](https://img.shields.io/github/v/release/kostyk348/kostyk348?sort=semver&color=blue)](https://github.com/kostyk348/kostyk348/releases)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/kostyk348?branch=main)](https://github.com/kostyk348/kostyk348/commits/main)
 | [**g-tools**](https://github.com/kostyk348/g-tools) | Zero-copy dataflow DAG engine: mmap → lock-free chunks → SIMD (AVX2) → flat arena. grep 7.7×, strings 10× faster | C++ | ![1](https://img.shields.io/badge/1-666?style=flat-square) |
 
 ---
