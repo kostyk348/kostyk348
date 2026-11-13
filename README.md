@@ -42,7 +42,7 @@ Areas I keep coming back to:
 ## 🚀 Now
 
 - **CapsuleCraft** — the flagship: a local-first knowledge base where every note is an `.eml` file. Rust + egui native shell, React web build, eight themes, offline AI integrations.
-- **Modbus Studio (`mbrs`)** and **`cadcraft`** — the two automation products: a SCADA-grade Modbus client and an AutoCAD-compatible drafting tool, both written from scratch.
+- **mbSCADA** (`mbscada-rs`) and **`cadcraft`** — the two automation products: a Modbus Poll-grade SCADA client and an AutoCAD-compatible drafting tool, both written from scratch.
 - **DSO / PHASE / SINT** — research track: deterministic runtimes and reversible computing on one side, hash-chained agent memory and MCP tooling on the other.
 - **Every public repository** carries a tagged release, a README with a CI/release/licence badge row, and — where a build recipe is reproducible — a green GitHub Actions check.
 
@@ -51,7 +51,7 @@ Areas I keep coming back to:
 | Project | What it is | ★ |
 |---|---|---|
 | [**CapsuleCraft**](https://github.com/kostyk348/capsuleos) | Local-first note editor and planner where every note is a real RFC 5322 `.eml` file — no database, no cloud. Rust + egui shell, React web build. | 30 |
-| [**mbrs — Modbus Studio**](https://github.com/kostyk348/mbrs) | From-scratch Modbus master/monitor: polling windows, virtualised register grid, value→colour engine, SCADA-style dashboard. | — |
+| [**mbSCADA**](https://github.com/kostyk348/mbscada-rs) | Modbus Poll + SCADA on Rust/Tauri 2: Modbus TCP·RTU·ASCII, byte-exact `.mbp`/`.mbw` round-trip, per-row rules, mimic diagrams, sparklines, CSV log. | 6 |
 | [**cadcraft**](https://github.com/kostyk348/cadcraft) | Open-source computer-aided design and drafting: AutoCAD-style command line, object snaps, layers, DXF. | — |
 | [**DSO-Controllab**](https://github.com/kostyk348/DSO-Controllab) | Deterministic Systems Optimization — verified execution plans and resource contracts for control systems. | 4 |
 | [**pdf-translate**](https://github.com/kostyk348/pdf-translate) | Layout-preserving PDF translation, 30+ languages, local DeepLX backend, no API key. | 4 |
@@ -70,7 +70,7 @@ All 115 public repositories: [browse](https://github.com/kostyk348?tab=repositor
 
 ## 🎛 Industrial Automation & Tooling
 
-- [**mbrs**](https://github.com/kostyk348/mbrs) — Modbus Studio: polling windows, register tables, row quality, writes, multi-connection (Rust)
+- [**mbSCADA**](https://github.com/kostyk348/mbscada-rs) — Modbus Poll–grade SCADA client: TCP/RTU/ASCII, byte-exact session round-trip, mimic diagrams, sparklines, CSV logging (Rust + Tauri 2)
 - [**mbparse**](https://github.com/kostyk348/mbparse) — zero-dependency Modbus RTU/TCP frame analyzer: parse, validate, explain (C)
 - [**doc-generator**](https://github.com/kostyk348/doc-generator) — offline GOST document generator: outgoing letters, memos, forms, name declension, PDF/.eml/.doc export
 - [**pdf-spec-parser**](https://github.com/kostyk348/pdf-spec-parser) — procurement PDF spec parser & obfuscator, GOST CID support
