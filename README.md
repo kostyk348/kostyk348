@@ -10,6 +10,7 @@
 
 [![Website](https://img.shields.io/badge/website-kostyk348.github.io-1565C0?style=for-the-badge&logo=github-pages&logoColor=white)](https://kostyk348.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--0152--757X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0152-757X)
+[![Lost-Tech Museum](https://img.shields.io/badge/museum-lost--tech--museum-8b5cf6?style=for-the-badge&logo=internetarchive&logoColor=white)](https://kostyk348.github.io/lost-tech-museum/)
 [![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=public_repos&label=repositories&style=for-the-badge&logo=github&color=orange)](https://github.com/kostyk348?tab=repositories)
 [![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=followers&label=followers&style=for-the-badge&logo=github&color=blue)](https://github.com/kostyk348?tab=followers)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/kostyk348?style=for-the-badge&label=profile%20updated)](https://github.com/kostyk348/kostyk348/commits/main)
@@ -59,6 +60,13 @@ Areas I keep coming back to:
 | [**DSO-TRON**](https://github.com/kostyk348/DSO-TRON) | Deterministic RTOS kernel in the μITRON 4.0 tradition: static allocation, lock-free IPC, time-triggered scheduling. | 2 |
 
 All 115 public repositories: [browse](https://github.com/kostyk348?tab=repositories).
+
+## 🌐 Sites
+
+| Site | What's there |
+|---|---|
+| [**kostyk348.github.io**](https://kostyk348.github.io) | Personal site (Hugo + GitHub Pages): project write-ups, DSO/PHASE notes, blog |
+| [**Lost-Tech Museum**](https://kostyk348.github.io/lost-tech-museum/) | A museum of forgotten engineering: digests of papers, patents, RFCs and dead standards, every finding traced to a primary source |
 
 ## 🎛 Industrial Automation & Tooling
 
