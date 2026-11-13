@@ -1,42 +1,27 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/25775184?v=4" width="110" height="110" style="border-radius:50%" alt="avatar"/>
-</p>
+<div align="center">
 
-<h1 align="center">Konstantin (<code>kostyk348</code>)</h1>
+<img src="assets/banner.svg" alt="Konstantin Parashchuk — automation engineer, embedded and low-level systems, Rust/C" width="1000">
 
-<p align="center">
-  <b>Automation Engineer</b> • <b>Embedded &amp; Low-Level C/Rust</b> • <b>Graphics &amp; Simulation</b> • <b>AI Research</b>
-</p>
+# Konstantin Parashchuk
 
-<p align="center">
-  I build unusual software that sits at the intersection of low-level programming,
-  computer graphics, industrial automation, embedded systems and AI.
-  Automation engineer at <b>Teplomash</b> (Saint Petersburg) · MSc in Control in Technical Systems, LETI (2025).
-</p>
+### Automation engineer · embedded & low-level systems · Rust / C / Python
 
-<p align="center">
-  <a href="https://kostyk348.github.io"><img src="https://img.shields.io/badge/website-kostyk348.github.io-1565C0?style=for-the-badge&logo=github-pages&logoColor=white" alt="Website"/></a>
-  <a href="https://orcid.org/0009-0009-0152-757X"><img src="https://img.shields.io/badge/ORCID-0009--0009--0152--757X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://github.com/kostyk348?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=public_repos&label=repositories&style=for-the-badge&logo=github&color=orange" alt="Repositories"/></a>
-  <a href="https://github.com/kostyk348?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=followers&label=followers&style=for-the-badge&logo=github&color=blue" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=kostyk348&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-</p>
+**I build the software where industrial automation meets low-level engineering:** Modbus and SCADA tooling, deterministic runtimes, reversible computing, CAD/EDA automation and agent memory.
 
-<p align="center">
-  <a href="#-what-i-do">What I do</a> ·
-  <a href="#-featured-projects">Featured</a> ·
-  <a href="#-industrial-automation--tooling">Industrial</a> ·
-  <a href="#-deterministic--reversible-computing">Deterministic</a> ·
-  <a href="#-mime-os-ecosystem">MIME-OS</a> ·
-  <a href="#-sint--agent-memory--orchestration">SINT</a> ·
-  <a href="#-embedded--low-level">Embedded</a> ·
-  <a href="#-graphics-audio--simulation">Graphics</a> ·
-  <a href="#-contact--collaboration">Contact</a>
-</p>
+[![Website](https://img.shields.io/badge/website-kostyk348.github.io-1565C0?style=for-the-badge&logo=github-pages&logoColor=white)](https://kostyk348.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--0152--757X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0152-757X)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=public_repos&label=repositories&style=for-the-badge&logo=github&color=orange)](https://github.com/kostyk348?tab=repositories)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkostyk348&query=followers&label=followers&style=for-the-badge&logo=github&color=blue)](https://github.com/kostyk348?tab=followers)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/kostyk348?style=for-the-badge&label=profile%20updated)](https://github.com/kostyk348/kostyk348/commits/main)
+<img src="https://komarev.com/ghpvc/?username=kostyk348&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
+[<img src="https://img.shields.io/badge/What%20I%20do-What I do-1f2937?style=flat-square" alt="What I do">](#-what-i-do) · [<img src="https://img.shields.io/badge/Now-Now-1f2937?style=flat-square" alt="Now">](#-now) · [<img src="https://img.shields.io/badge/Selected%20work-Selected work-1f2937?style=flat-square" alt="Selected work">](#-selected-work) · [<img src="https://img.shields.io/badge/Industrial-Industrial-1f2937?style=flat-square" alt="Industrial">](#-industrial-automation--tooling) · [<img src="https://img.shields.io/badge/Deterministic-Deterministic-1f2937?style=flat-square" alt="Deterministic">](#-deterministic--reversible-computing) · [<img src="https://img.shields.io/badge/MIME%2DOS-MIME-OS-1f2937?style=flat-square" alt="MIME-OS">](#-mime-os-ecosystem) · [<img src="https://img.shields.io/badge/SINT-SINT-1f2937?style=flat-square" alt="SINT">](#-sint--agent-memory--orchestration) · [<img src="https://img.shields.io/badge/Embedded-Embedded-1f2937?style=flat-square" alt="Embedded">](#-embedded--low-level) · [<img src="https://img.shields.io/badge/Graphics-Graphics-1f2937?style=flat-square" alt="Graphics">](#-graphics-audio--simulation) · [<img src="https://img.shields.io/badge/Contact-Contact-1f2937?style=flat-square" alt="Contact">](#-contact--collaboration)
+
+</div>
 
 ---
 
-# 🧭 What I Do
+## 🧭 What I do
 
 Most of my repositories are **experiments rather than finished products** —
 I like exploring unconventional ideas and learning how complex systems work from the inside.
@@ -53,21 +38,27 @@ Areas I keep coming back to:
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Now
 
-| Project | Description | Lang |
-|---------|-------------|------|
-| [**mbrs**](https://github.com/kostyk348/mbrs) | Modbus Studio — Modbus master / monitor with a strong value→colour engine and SCADA-style dashboard | Rust |
-| [**cadcraft**](https://github.com/kostyk348/cadcraft) | Open-source computer-aided design and drafting, AutoCAD-compatible workflow | Rust |
-| [**DSO-Controllab**](https://github.com/kostyk348/DSO-Controllab) | Deterministic Systems Optimization — verified execution plans & resource contracts for control systems | C / Python |
-| [**DSO**](https://github.com/kostyk348/dso) | Deterministic Streaming Object Runtime — manifesto, spec, prototype, benchmarks. Events target specific objects, objects sleep by default | C++ |
-| [**DSO-TRON**](https://github.com/kostyk348/DSO-TRON) | Deterministic real-time OS kernel inspired by ITRON 4.0 — static allocation, lock-free IPC, time-triggered scheduling | C |
-| [**MPTC**](https://github.com/kostyk348/MPTC) | Multi-Phase Ternary Computing — branchless fixed-point C99 for ultra-low-power MCUs | C |
-| [**datatrace**](https://github.com/kostyk348/datatrace) | LD_PRELOAD + eBPF taint tracker — untrusted data flows to sinks, with flow-graph reporting | C |
-| [**pdf-translate**](https://github.com/kostyk348/pdf-translate) | Layout-preserving PDF translation. 30+ languages, DeepLX backend, no API key | Python |
-| [**g-tools**](https://github.com/kostyk348/g-tools) | Zero-copy dataflow DAG engine: mmap → lock-free chunks → SIMD (AVX2) → flat arena. grep 7.7×, strings 10× faster | C++ |
+- **CapsuleCraft** — the flagship: a local-first knowledge base where every note is an `.eml` file. Rust + egui native shell, React web build, eight themes, offline AI integrations.
+- **Modbus Studio (`mbrs`)** and **`cadcraft`** — the two automation products: a SCADA-grade Modbus client and an AutoCAD-compatible drafting tool, both written from scratch.
+- **DSO / PHASE / SINT** — research track: deterministic runtimes and reversible computing on one side, hash-chained agent memory and MCP tooling on the other.
+- **Every public repository** carries a tagged release, a README with a CI/release/licence badge row, and — where a build recipe is reproducible — a green GitHub Actions check.
 
----
+## ⭐ Selected work
+
+| Project | What it is | ★ |
+|---|---|---|
+| [**CapsuleCraft**](https://github.com/kostyk348/capsuleos) | Local-first note editor and planner where every note is a real RFC 5322 `.eml` file — no database, no cloud. Rust + egui shell, React web build. | 30 |
+| [**mbrs — Modbus Studio**](https://github.com/kostyk348/mbrs) | From-scratch Modbus master/monitor: polling windows, virtualised register grid, value→colour engine, SCADA-style dashboard. | — |
+| [**cadcraft**](https://github.com/kostyk348/cadcraft) | Open-source computer-aided design and drafting: AutoCAD-style command line, object snaps, layers, DXF. | — |
+| [**DSO-Controllab**](https://github.com/kostyk348/DSO-Controllab) | Deterministic Systems Optimization — verified execution plans and resource contracts for control systems. | 4 |
+| [**pdf-translate**](https://github.com/kostyk348/pdf-translate) | Layout-preserving PDF translation, 30+ languages, local DeepLX backend, no API key. | 4 |
+| [**mime-os**](https://github.com/kostyk348/mime-os) | Single-file `.eml` container OS stack: mmap reader, hash-chained delta log, KV, IPC bus, tag-DB. | 3 |
+| [**MPTC**](https://github.com/kostyk348/MPTC) | Multi-Phase Ternary Computing — branchless fixed-point C99 for ultra-low-power MCUs. | 2 |
+| [**DSO-TRON**](https://github.com/kostyk348/DSO-TRON) | Deterministic RTOS kernel in the μITRON 4.0 tradition: static allocation, lock-free IPC, time-triggered scheduling. | 2 |
+
+All 115 public repositories: [browse](https://github.com/kostyk348?tab=repositories).
 
 ## 🎛 Industrial Automation & Tooling
 
@@ -82,14 +73,14 @@ Areas I keep coming back to:
 
 ---
 
-## 🔭 Side Quests
+## 🔭 Side quests
 
 - [**lost-tech-museum**](https://kostyk348.github.io/lost-tech-museum/) — a museum of lost technologies: digests of patents, RFCs and standards, with every finding traced to a primary source
 - [**kostyk348.github.io**](https://kostyk348.github.io) — personal site (Hugo + GitHub Pages): DSO projects, notes, blog
 
 ---
 
-## 🧮 Deterministic & Reversible Computing
+## 🧮 Deterministic & reversible computing
 
 - [**DSO-TRON**](https://github.com/kostyk348/DSO-TRON) / [**dso-tron-esp32**](https://github.com/kostyk348/dso-tron-esp32) — deterministic RTOS kernel and its ESP32 (Xtensa LX6) port
 - [**dso-runtime**](https://github.com/kostyk348/dso-runtime) — deterministic task-graph execution framework: arena allocation, static scheduling
@@ -103,7 +94,7 @@ Areas I keep coming back to:
 
 ---
 
-## 📦 MIME-OS Ecosystem
+## 📦 MIME-OS ecosystem
 
 > **mime-os** — a single-file `.eml` container OS stack: mmap reader, append-only delta log with hash-chain, KV, IPC bus, logic runner, tagged flat FS, folderless tag-DB.
 
@@ -120,7 +111,7 @@ Areas I keep coming back to:
 
 ---
 
-## 🧠 SINT — Agent Memory & Orchestration
+## 🧠 SINT — agent memory & orchestration
 
 > **sint** — monorepo for the SINT agent ecosystem: MCP servers, core memory system (hash-chain provenance, temporal decay, drift detection), architecture docs.
 
@@ -135,18 +126,7 @@ Areas I keep coming back to:
 
 ---
 
-## 🏭 Automation, SCADA & AutoCAD
-
-- [**autocad-electrical-plugin**](https://github.com/kostyk348/autocad-electrical-plugin) — AutoCAD 2024 .NET plugin: electrical topology (EL-*), specifications, XData (C#)
-- [**el-tools**](https://github.com/kostyk348/el-tools) — Electrical Tools: AutoLISP for electrical schematic topology
-- [**omni**](https://github.com/kostyk348/omni) — DWG revision management from AutoCAD: snapshots, comparison, rollback
-- [**mbparse**](https://github.com/kostyk348/mbparse) — zero-dependency Modbus RTU/TCP frame analyzer (C)
-- [**pdf-spec-parser**](https://github.com/kostyk348/pdf-spec-parser) — procurement PDF spec parser & obfuscator, GOST CID support
-- [**passport-to-uml**](https://github.com/kostyk348/passport-to-uml) — extract functional UML diagrams from technical passport PDFs
-
----
-
-## 🛠 Embedded & Low-Level
+## 🛠 Embedded & low-level
 
 - [**spix**](https://github.com/kostyk348/spix) — single-header C99 image processing: resize, convolution, dithering — all fixed-point, no FPU
 - [**qdsp**](https://github.com/kostyk348/qdsp) — branchless fixed-point (Q15) DSP primitives for FPU-less MCUs
@@ -158,7 +138,7 @@ Areas I keep coming back to:
 
 ---
 
-## 🎮 Graphics, Audio & Simulation
+## 🎮 Graphics, audio & simulation
 
 - [**fca**](https://github.com/kostyk348/fca) — fuzzy cellular-rule 2× upscaler for old video/anime: scale2x/fuzzy/xbr, AVX2, GLSL mpv shaders
 - [**eafar**](https://github.com/kostyk348/eafar) — Event-Driven Asynchronous Fuzzy Automata Runtime (C++23), ~3000× on sparse workloads
@@ -170,7 +150,7 @@ Areas I keep coming back to:
 
 ---
 
-## ⌨ Hobby Projects
+## ⌨ Hobby projects
 
 - [**dso-layout**](https://github.com/kostyk348/dso-layout) — Colemak-DH + optimized Russian keyboard layout: **47% less finger travel**, 63% fewer same-finger bigrams
 - [**homeo**](https://github.com/kostyk348/homeo) — homeostatic controller on invariants: Adam relaxation + thermal noise
@@ -192,13 +172,13 @@ Areas I keep coming back to:
 
 ---
 
-## 🎨 Interests Outside Programming
+## 🎨 Interests outside programming
 
 Science Fiction · Cyberpunk · Anime · Photography · 3D Printing · Jazz/Rock · Retro Games · Computer History
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -217,12 +197,14 @@ Science Fiction · Cyberpunk · Anime · Photography · 3D Printing · Jazz/Rock
 
 ---
 
-## 📬 Contact & Collaboration
+## 📬 Contact & collaboration
 
 - 🌐 Website: [kostyk348.github.io](https://kostyk348.github.io)
 - 🤝 I'm always interested in: Linux software, graphics, game engines, AI research, emulators, retro hardware, open-source tooling
 - 💬 Open an **Issue** or **Discussion**, or reach out directly
 
 ---
+
+<p align="center"><i>"Learning by building."</i></p>
 
 <p align="center"><i>"Learning by building."</i></p>
