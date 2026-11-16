@@ -50,7 +50,7 @@ Areas I keep coming back to:
 
 | Project | What it is | ★ |
 |---|---|---|
-| [**CapsuleCraft**](https://github.com/kostyk348/capsuleos) | Local-first note editor and planner where every note is a real RFC 5322 `.eml` file — no database, no cloud. Rust + egui shell, React web build. | 30 |
+| [**CapsuleCraft**](https://github.com/kostyk348/CapsuleCraft) | Local-first note editor and planner where every note is a real RFC 5322 `.eml` file — no database, no cloud. Rust + egui shell, React web build. | 30 |
 | [**mbSCADA**](https://github.com/kostyk348/mbscada-rs) | Modbus Poll + SCADA on Rust/Tauri 2: Modbus TCP·RTU·ASCII, byte-exact `.mbp`/`.mbw` round-trip, per-row rules, mimic diagrams, sparklines, CSV log. | 6 |
 | [**cadcraft**](https://github.com/kostyk348/cadcraft) | Open-source computer-aided design and drafting: AutoCAD-style command line, object snaps, layers, DXF. | — |
 | [**DSO-Controllab**](https://github.com/kostyk348/DSO-Controllab) | Deterministic Systems Optimization — verified execution plans and resource contracts for control systems. | 4 |
@@ -97,7 +97,6 @@ All 115 public repositories: [browse](https://github.com/kostyk348?tab=repositor
 - [**phase-vm**](https://github.com/kostyk348/phase-vm) — reversible register machine: every op writes one destination, the inverse is always computable, no logs
 - [**phase-math**](https://github.com/kostyk348/phase-math) / [**phase-arch**](https://github.com/kostyk348/phase-arch) — reversible math on Z/2^64 and the PHASE architecture spec
 - [**ternary-vm**](https://github.com/kostyk348/ternary-vm) — balanced-ternary VM + assembler (MPTC reference runtime)
-- [**sdre**](https://github.com/kostyk348/sdre) — Semantic Dataflow Region Engine: x86 → SSA → ARM binary translation
 - [**x86_superopt**](https://github.com/kostyk348/x86_superopt) — same-ISA x86_64 binary super-optimizer (SSA lifting + AVX2 vectorization)
 
 ---
